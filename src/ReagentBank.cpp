@@ -207,8 +207,8 @@ public:
             AddGossipItemFor(player, GOSSIP_ICON_MONEY_BAG, GetItemIcon(10940, 30, 30, -18, 0) + "Зачарование", ITEM_SUBCLASS_ENCHANTING, 0);
             AddGossipItemFor(player, GOSSIP_ICON_MONEY_BAG, GetItemIcon(23572, 30, 30, -18, 0) + "Материал Пустоты", ITEM_SUBCLASS_MATERIAL, 0);
             AddGossipItemFor(player, GOSSIP_ICON_MONEY_BAG, GetItemIcon(2604, 30, 30, -18, 0) + "Прочие товары", ITEM_SUBCLASS_TRADE_GOODS_OTHER, 0);
-            AddGossipItemFor(player, GOSSIP_ICON_MONEY_BAG, GetItemIcon(38682, 30, 30, -18, 0) + "Броня Веллум", ITEM_SUBCLASS_ARMOR_ENCHANTMENT, 0);
-            AddGossipItemFor(player, GOSSIP_ICON_MONEY_BAG, GetItemIcon(39349, 30, 30, -18, 0) + "Оружие Веллум", ITEM_SUBCLASS_WEAPON_ENCHANTMENT, 0);
+            AddGossipItemFor(player, GOSSIP_ICON_MONEY_BAG, GetItemIcon(38682, 30, 30, -18, 0) + "Свитки брони", ITEM_SUBCLASS_ARMOR_ENCHANTMENT, 0);
+            AddGossipItemFor(player, GOSSIP_ICON_MONEY_BAG, GetItemIcon(39349, 30, 30, -18, 0) + "Свитки оружия", ITEM_SUBCLASS_WEAPON_ENCHANTMENT, 0);
             AddGossipItemFor(player, GOSSIP_ICON_MONEY_BAG, "Поместить все реагенты", DEPOSIT_ALL_REAGENTS, 0);
             break;
         }
